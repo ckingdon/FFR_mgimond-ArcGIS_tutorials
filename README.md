@@ -1,6 +1,9 @@
 #### FFR_mgimond-ArcGIS_tutorials
 ArcGIS Tutorials  
-Credit: mgimond
+Credit: mgimond  
+https://ckingdon.github.io/FFR_mgimond-ArcGIS_tutorials/index.html
+link doesn't work .. working on it .. maybe look at what I did for [tukeyedar](https://ckingdon.github.io/FFR_mgimond-tukeyedar/) repo
+
 #
 FFR: Forked For Reference
 This is one of several repos I've found while searching across the web for help with various technical hurdles. Sometimes I come across a repo that's so good that I'm going to preserve it in my own account for future reference (FFR, forked for reference, filed for reference, for future reference)
